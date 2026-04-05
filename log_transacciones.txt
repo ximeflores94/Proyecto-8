@@ -1,0 +1,13 @@
+Fecha: 29-03-2026 | Hora: 10:17:50 p. m. | Error: notNull Violation: Order.descripcion cannot be null
+
+        Fecha: 29-03-2026
+        Hora: 10:19:29 p. m.
+        Ruta: /api/usuarios-con-pedidos
+        Método: POST
+        Error: notNull Violation: Order.descripcion cannot be null
+
+        Fecha: 30-03-2026
+        Hora: 12:20:45 a. m.
+        Ruta: /api/usuarios-con-pedidos
+        Método: POST
+        Error: notNull Violation: User.password cannot be null
